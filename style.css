@@ -1,0 +1,98 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	background-color: black;
+	
+}
+
+nav {
+	position: sticky;
+	top: 0;
+	background-color: #fff;
+	padding: 1rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+
+nav li {
+	margin-right: 20px;
+}
+
+nav a {
+	text-decoration: none;
+	color: #000;
+}
+.contact form input{
+  border:2px solid #FCAF02 ;
+  padding:5px;
+  border-radius: 15px;
+  margin: 10px;
+  width: 80vw;
+  color:  #FCAF02;
+  background-color: #000000;
+  
+}
+table{
+  margin:50px 30px;
+}
+table,th,td,tr{
+  border: 2px solid #FCAF02;
+  width:100vw;
+  border-collapse: collapse;
+  
+}
+
+
+table{
+
+  color: #FCAF02;
+  
+}
+.footer{
+  background-color:  #FCAF02;
+  color: #000000;
+}
+
+
+nav{
+   background: #FCAF02;
+
+}
+.contact{
+  color: #FCAF02;
+  
+  
+}
+.contact form button{
+  display: flex;
+  flex-direction: row;
+  background-color:#FCAF02 ;
+  color: #000000;
+  border-radius: 15px;
+  justify-content: center;
+  
+}
+  
+
+
+.intro button{
+  background-color: #FCAF02 ;
+  border-radius: 15px;
+  border-color: #FCAF02 ;
+}
+
+
+ 
+
+section p,h1{
+  color:  #FFFFFF;
+}
+
+
